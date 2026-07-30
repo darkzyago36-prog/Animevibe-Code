@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: var(--font-spline-sans), sans-serif;
+  --font-body: var(--font-be-vietnam-pro), sans-serif;
+}
